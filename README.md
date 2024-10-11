@@ -1,7 +1,7 @@
 From Astro, MYTV and Unifi. 
 Copy the link down here:
 
-https://bit.ly/iptvshadany7824
+https://bit.ly/ipdanytv
 
 (Maybe update more channels. Some channel may not working.)
 
