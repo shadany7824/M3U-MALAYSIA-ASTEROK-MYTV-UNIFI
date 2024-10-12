@@ -2,33 +2,33 @@
 
 
 
-#EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="FHD",TV1 
+#EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="FHD",TV2 
+#EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-id="103.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="FHD",TV3
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
-#EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="FHD" ,TV6 
+#EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="MYTV" ,TV6 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="108.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-logo="" group-title="FHD",8TV 
+#EXTINF:-1 tvg-id="108.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-logo="" group-title="MYTV",8TV 
 https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 
-#EXTINF:-1 tvg-id="109.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="FHD",TV9 
+#EXTINF:-1 tvg-id="109.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="MYTV",TV9 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="114.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-logo="" group-title="FHD",Al-Hijrah 
+#EXTINF:-1 tvg-id="114.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-logo="" group-title="MYTG",Al-Hijrah 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#EXTINF:-1 tvg-id="107.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-title="FHD", DIDIK TV KPM 
+#EXTINF:-1 tvg-id="107.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-title="MYTV", DIDIK TV KPM 
 https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
 
 #EXTINF:-1 tvg-id="146.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="INDO",Okey 
@@ -229,7 +229,7 @@ http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="701.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-logo="" group-title="FHD",Axn  
+#EXTINF:-1 tvg-id="701.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-logo="" group-title="MOVIE",Axn  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -283,7 +283,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-logo="" group-title="FHD",Hbo Hits  
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-logo="" group-title="MOVIE",Hbo Hits  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -361,13 +361,13 @@ http://opplex.tv:8080//live/83212539/43153928/66315.m3u8
 #EXTINF:-1 tvg-id="712.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-logo="" group-title="MOVIE",Warner TV     
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-#EXTINF:-1 tvg-id="USBD300002TU" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Ion.png" group-logo="" group-logo="" group-title="FHD",ion
+#EXTINF:-1 tvg-id="USBD300002TU" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Ion.png" group-logo="" group-logo="" group-title="MOVIE",ion
 https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 
-#EXTINF:-1 tvg-id="USBC24000223S" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonMystery.png" group-logo="" group-logo="" group-title="FHD",ion Mystery
+#EXTINF:-1 tvg-id="USBC24000223S" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonMystery.png" group-logo="" group-logo="" group-title="HORROR",ion Mystery
 https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
 
-#EXTINF:-1 tvg-id="USBD300003LK" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonPlus.png" group-logo="" group-logo="" group-title="FHD",ion Plus
+#EXTINF:-1 tvg-id="USBD300003LK" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonPlus.png" group-logo="" group-logo="" group-title="MOVIE",ion Plus
 https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-logo="" group-title="SG",HerSphere by Lionsgate
