@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 #EXTINF:-1 tvg-id="109.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="MYTV",TV9 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 
-#EXTINF:-1 tvg-id="112", group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="AwesomeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
+#EXTINF:-1 tvg-id="112" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png" group-logo="" group-title="MYTV",Awesome Tv 
 https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
