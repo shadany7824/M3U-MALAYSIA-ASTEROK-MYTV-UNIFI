@@ -444,7 +444,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"se/6nlHPOLOuZ2vCZJN++w", "kid":"Yqe3kXqtUSPNTfZcVhxwEA" } ], "type":"temporary" }
 #####EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-logo="" group-title="SPORT",Arena Bola 2
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
+tvmalaysialive.damnserver.com/arenabola2.html
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
