@@ -449,25 +449,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_pri
 #####EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-logo="" group-title="SPORT",Arena Bola 2
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
-#####EXTINF:-1 tvg-id="811.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="" group-title="SPORT",Astro SuperSport 
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
-#####EXTINF:-1 tvg-id="812.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-logo="" group-title='SPORT",Astro SuperSport 2 
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
-#####EXTINF:-1 tvg-id="813.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-logo="" group-title="SPORT",Astro SuperSport 3 
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
-
 #############################################################################################################################################################################################################################
-
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESXlaRGhtT1dVdE1qVmlOQzAwWlRabExUbGxOekF0TkRoaVpUSTNZVFU0T1dOaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODg2NjQ2OSwiaWF0IjoxNzI4MjYyNDY5fQ.kAPOjXjvsVkDS864kJfgHiDDmDtp54GTq3jq4Rc2VNY"}
@@ -484,22 +466,6 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-logo="" group-title="SPORT",Arena Bola 2 
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESXlaRGhtT1dVdE1qVmlOQzAwWlRabExUbGxOekF0TkRoaVpUSTNZVFU0T1dOaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODg2NjQ2OSwiaWF0IjoxNzI4MjYyNDY5fQ.kAPOjXjvsVkDS864kJfgHiDDmDtp54GTq3jq4Rc2VNY"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro Sport UHD" tvg-logo="https://www.tvmalaysia.live/images/sportsuhd-live-streaming-online.webp" group-title="SPORT",Astro Sports UHD  
-https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESXlaRGhtT1dVdE1qVmlOQzAwWlRabExUbGxOekF0TkRoaVpUSTNZVFU0T1dOaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODg2NjQ2OSwiaWF0IjoxNzI4MjYyNDY5fQ.kAPOjXjvsVkDS864kJfgHiDDmDtp54GTq3jq4Rc2VNY"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="812.astro" tvg-name="Astro Premier League " tvg-logo="https://www.tvmalaysia.live/images/astro-premier-league-live-streaming-online.webp" group-title="SPORT",Astro Premier League  
-https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESXlaRGhtT1dVdE1qVmlOQzAwWlRabExUbGxOekF0TkRoaVpUSTNZVFU0T1dOaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODg2NjQ2OSwiaWF0IjoxNzI4MjYyNDY5fQ.kAPOjXjvsVkDS864kJfgHiDDmDtp54GTq3jq4Rc2VNY"}
