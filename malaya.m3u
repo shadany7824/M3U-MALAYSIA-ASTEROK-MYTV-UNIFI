@@ -13,6 +13,29 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 #EXTINF:-1 tvg-id="103.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="MYTV",TV3
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
+#EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 Server 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
+#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
+#EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+#EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 Server 2
+https://centerrrs.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6I0o%2FoIw83oXLZFVYSQnBBI%2FiKpnGDOVh7xgstdkkeZwTJycHE0IqZBvG%2BXsudj34k%3A20240728232643%3AUTC%2C10001002674171%2C1.1.1.1%2C20240728232643%2Curn:Huawei:liveTV:iptv182%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9 (Server 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9 (Server 2)
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
 #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="MYTV" ,TV6 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
@@ -1037,3 +1060,6 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HRmhOelZrTjJJdE9Ua3lNaTAwWkROaExXRmhNbU10WlRZMFpqUTRNMkZtTkdZMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTg0MTQ5MiwiaWF0IjoxNzI5MjM3NDkyfQ.JMh_vbVFg6r95dGj7VH6lZLMu3_URD_T4qQz_G-f4u4"}
 #EXTINF:-1 tvg-id="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/534_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT",ASTRO ARENA BOLA 3
 https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
+########################MOVIE###########################
+[{ "name": "Baik Punya Ah Long", "category": "Malay Film", "info": { "poster": "https://m.media-amazon.com/images/M/MV5BNWUyYTNhZWItOGUwMS00MmRjLWIyMTUtNmUwYTI2ZGQwMmU0XkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg", "bg": "https://m.media-amazon.com/images/M/MV5BNWUyYTNhZWItOGUwMS00MmRjLWIyMTUtNmUwYTI2ZGQwMmU0XkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg", "plot": "Dua beradik yang bergelut memulakan perniagaan pinjaman wang, menghadapi tentangan hebat daripada pesaing Ah Long. Mereka mesti menyelamatkan seorang tukang jahit daripada musuh yang kejam sambil cuba berjaya dalam perniagaan untuk menghormati mandat bapa angkat mereka.", "backdrop": "https://aqfadtv.xyz/images/16Puasa.png", "director": ["Aflin Shauki"], "cast": ["Zizan Razak", "Johan Raja Lawak", "Adibah Noor"], "genre": ["comedy"], "year": "2024" }, "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Baik.Punya.Ah-Long.2024.1080P.Aotg.Web-Dl.Dd5.1.H264-ABE.mp4",  "name": "Takluk: Lahad Datu", "category": "Malay Film", "info": { "poster": "https://suara.tv/wp-content/uploads/2024/08/453769484_18448634902044665_3035067625363214788_n.jpg", "bg": "https://images.mubicdn.net/images/film/416321/cache-977974-1719046120/image-w1280.jpg", "plot": "Kumpulan bersenjata Gerakan Militan Nusantara (GMN) yang diketuai oleh Raja Iskandar (Eman Manan) bersama orang kanannya Raja Imran (Nasir Jani) telah menceroboh Batu Jugar dan Kampung Air. Pasukan VAT 69 diketuai oleh SAC Azizi (Adam Corrie) menggerakkan tim Alpha, Bravo, Charlie dan Delta (terdapat lima sektor iaitu Alpha, Bravo, Charlie, Delta dan Echo semasa krisis) ke Batu Jugar untuk mengiringi Dato' Mizan (Riezman Khuzaimi) Timbalan Pengarah KDNKA (Pasukan Gerakan Khas) Bukit Aman ke sana bagi sesi rundingan damai bersama SAC Kamal (Josiah Hogan) dari Cawangan Khas.", "backdrop": "https://suara.tv/wp-content/uploads/2024/08/453769484_18448634902044665_3035067625363214788_n.jpg", "director": ["Zulkarnain Azhar"], "cast": ["Syafiq Kyle", "Kamal Adli", "Eman Manan"], "genre": ["action"], "year": "2024" }, "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Conquer.Lahad.Datu.2024.1080p.NF.WEB-DL.DDP5.1.H.264-ABE.mkv" }]
