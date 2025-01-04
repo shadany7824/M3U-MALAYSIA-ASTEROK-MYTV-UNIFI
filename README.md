@@ -11,8 +11,8 @@ https://bit.ly/vodshadany
 
 You can use:
 
-Tivimate
+OTT Navigator (Recommends)
 
-Ott Navigator (Suggested)
+Tivimate
 
 or something that support m3u url....
