@@ -78,8 +78,143 @@
     "trailer": "TR9-6cTwQoA",
     "backdrop": "https://www.mstar.com.my/image/830/553?url=https%3A%2F%2Fclips.mstar.com.my%2Fimages%2Fblob%2F65E46C86-F0C1-43D8-BC3E-9731CF13235D",
     "video": "https://ia801706.us.archive.org/32/items/kl.-special.-force.-2018.1080p.-web-dl.-aac.-h.-264-kzk/KL.Special.Force.2018.1080p.WEB-DL.AAC.H.264-KZK.mp4"
+},
+{
+    "name": "Squid Game Season 2",
+    "category": "Drama",
+    "info": {  "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
+    "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
+    "plot": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
+    "cast": [ "Lee Jung-jae", "Lee Byung-hun", "Wi Ha-joon", "Im Si-wan" ],
+    "director": [ "Hwang Dong-hyuk" ],
+    "country": [ "South Korea" ],
+    "rating": "8.5",
+    "year": 2024,
+    "genre": [ "drama", "action" ]
+    "trailer": "Ed1sGgHUo88",
+    "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",},
+    "seasons": [
+        {
+            "season": 1,
+            "info": {},
+            "episodes": [
+                {
+                    "episode": 1,
+                    "name": "Bread And Lottery",
+                    "info": { 
+                             "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
+                             "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
+                             "plot": "A vengeful Gi-hun makes a U-turn at the airport; later, in his hideout, he intensifies his search for the elusive recruiter who is seeking new players.",
+                             "cast": [ "Lee Jung-jae", "Lee Byung-hun", "Wi Ha-joon", "Im Si-wan" ],
+                             "director": [ "Hwang Dong-hyuk" ],
+                             "country": [ "South Korea" ],
+                             "rating": "8.5",
+                             "year": 2024,
+                             "genre": [ "drama", "action" ]
+                             "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",},
+                             "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP01.MalaySub.mp4"
+                },
+                {
+                    "episode": 2,
+                    "name": "Halloween Party",
+                    "info": { 
+                             "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
+                             "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
+                             "plot": "Gi-hun finally gets hold of an invitation, marked for Halloween day; in a tense moment facing Jun-ho, they reveal their truths to each other.",
+                             "cast": [ "Lee Jung-jae", "Lee Byung-hun", "Wi Ha-joon", "Im Si-wan" ],
+                             "director": [ "Hwang Dong-hyuk" ],
+                             "country": [ "South Korea" ],
+                             "rating": "8.5",
+                             "year": 2024,
+                             "genre": [ "drama", "action" ]
+                             "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",},
+                             "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP02.MalaySub.mp4"
+                },
+                {
+                    "episode": 3,
+                    "name": "Episode 3",
+                    "info": { 
+                             "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
+                             "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
+                             "plot": "New players gather for a chance to win 45.6 billion won; after an intense first round, the survivors' fates hang in the balance - down to one final vote.",
+                             "cast": [ "Lee Jung-jae", "Lee Byung-hun", "Wi Ha-joon", "Im Si-wan" ],
+                             "director": [ "Hwang Dong-hyuk" ],
+                             "country": [ "South Korea" ],
+                             "rating": "8.5",
+                             "year": 2024,
+                             "genre": [ "drama", "action" ]
+                             "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",},
+                             "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP03.MalaySub.mp4"
+                },
+                {
+                    "episode": 4,
+                    "name": "Six Legs",
+                    "info": { 
+                             "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
+                             "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
+                             "plot": "The players prepare for the next game: a six-legged pentathlon, where each team member must clear a mini-game to survive - or face collective elimination.",
+                             "cast": [ "Lee Jung-jae", "Lee Byung-hun", "Wi Ha-joon", "Im Si-wan" ],
+                             "director": [ "Hwang Dong-hyuk" ],
+                             "country": [ "South Korea" ],
+                             "rating": "8.5",
+                             "year": 2024,
+                             "genre": [ "drama", "action" ]
+                             "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",},
+                             "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP04.MalaySub.mp4"
+                },
+                {
+                    "episode": 5,
+                    "name": "One More Games",
+                    "info": { 
+                             "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
+                             "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
+                             "plot": "Kang No-eul earns enemies for her unruly actions; nerves fray to the breaking point as the remaining players vote on whether to move to the next round.",
+                             "cast": [ "Lee Jung-jae", "Lee Byung-hun", "Wi Ha-joon", "Im Si-wan" ],
+                             "director": [ "Hwang Dong-hyuk" ],
+                             "country": [ "South Korea" ],
+                             "rating": "8.5",
+                             "year": 2024,
+                             "genre": [ "drama", "action" ]
+                             "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",},
+                             "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP05.MalaySub.mp4"
+                },
+                {
+                    "episode": 6,
+                    "name": "Episode 6",
+                    "info": { 
+                             "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
+                             "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
+                             "plot": "",
+                             "cast": [ "Lee Jung-jae", "Lee Byung-hun", "Wi Ha-joon", "Im Si-wan" ],
+                             "director": [ "Hwang Dong-hyuk" ],
+                             "country": [ "South Korea" ],
+                             "rating": "8.5",
+                             "year": 2024,
+                             "genre": [ "drama", "action" ]
+                             "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",},
+                             "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP06.MalaySub.mp4"
+                },
+                {
+                    "episode": 7,
+                    "name": "Freind or Foe",
+                    "info": { 
+                             "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
+                             "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
+                             "plot": "",
+                             "cast": [ "Lee Jung-jae", "Lee Byung-hun", "Wi Ha-joon", "Im Si-wan" ],
+                             "director": [ "Hwang Dong-hyuk" ],
+                             "country": [ "South Korea" ],
+                             "rating": "8.5",
+                             "year": 2024,
+                             "genre": [ "drama", "action" ]
+                             "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",},
+                             "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP07.MalaySub.mp4"
+                },
+            ]
+        }
+    ]
 }
-
+]
 
 
 {"name": "Am I Ok?", "category": "HBOGO Asia", "info": {"poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/042181X0-portrait.jpg", "bg": "https://dai3fd1oh325y.cloudfront.net/images/originald/042181X0-landscape.jpg", "plot": "\u201cAm I OK?\u201d memaparkan Lucy, 32 tahun yang tinggal di Los Angeles mengetahui bahawa hubungannya dengan lelaki selama ini gagal kerana dia tak tertarik dengan lelaki. Jane membantu Lucy untuk cuba menjalani kehidupannya yang sebenar dalam usia 30-an.", "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/042181X0-landscape.jpg", "director": ["Tig Notaro"], "cast": ["Dakota Johnson", "Sonoya Mizuno", "Jermaine Fowler", "Kiersey Clemons", "Molly Gordon", "Odessa A\u2019zion"], "year": "2024"}, "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6645532dd940521074ff8740_hbovodhd/dash0/MYS_DOLBY_index.mpd", "drm": "clearkey", "drmkey": "765c8bcaf473c5569fded758e9283746:c89579e1ca850deba8d07a3bfd452669"},
