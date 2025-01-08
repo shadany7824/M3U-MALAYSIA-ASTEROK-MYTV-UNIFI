@@ -53,17 +53,17 @@
     "category": "Malay Film",
     "info": {
       "poster": "hhttps://upload.wikimedia.org/wikipedia/en/c/c4/KL_Special_Force.jpg",
-      "bg": "0https://www.mstar.com.my/image/830/553?url=https%3A%2F%2Fclips.mstar.com.my%2Fimages%2Fblob%2F65E46C86-F0C1-43D8-BC3E-9731CF13235D",
-      "plot": "Sheriff, pegawai polis dari Jabatan Integriti yang ditugaskan menyelesaikan kes 'Meth Killer. Dia berpasangan dengan Nazri, seorang anggota polis muda dari Jabatan Narkotik. Misi mereka adalah untuk menumpaskan sindiket dadah yang diketuai oleh Tony Ifrit. Sindiket terbabit sering terlepas daripada cengkaman undang-undang, setiap kali menerusi proses penghakiman.",
+      "bg": "https://www.mstar.com.my/image/830/553?url=https%3A%2F%2Fclips.mstar.com.my%2Fimages%2Fblob%2F65E46C86-F0C1-43D8-BC3E-9731CF13235D",
+      "plot": "Mengisahkan tentang sekumpulan unit khas Jabatan Siasatan Jenayah (JSJ), Polis Diraja Malaysia (PDRM) yang diketuai oleh Roslan (Rosyam Nor) yang berusaha untuk menumpaskan sekumpulan mafia yang diketuai oleh Asyraff (Syamsul Yusof). Kumpulan mafia yang dikenali sebagai 'Geng Anarkis' melaksanakan pelan rompakan dengan begitu licik dan pelbagai taktik untuk mengelirukan pihak polis.",
       "backdrop": "https://www.malaymail.com/malaymail/uploads/images/2024/04/22/204001.jpg?v=1735950300",
       "director": ["Syafiq Yusof"],
       "rating": "6.9",
       "country": [ "Malaysia" ],
-      "trailer": "gG3UbB_e_UY",
-      "cast": ["Zul Ariffin, Syafiq Kyle, Azira Syafinaz"],
-      "year": "2024"
+      "trailer": "TR9-6cTwQoA",
+      "cast": ["Rosyam Nor, Syamsul Yusof, Fattah Amin"],
+      "year": "2018"
     },
-    "video": "https://drive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Sheriff.2024.1080p.mkv"
+    "video": "https://ia801706.us.archive.org/32/items/kl.-special.-force.-2018.1080p.-web-dl.-aac.-h.-264-kzk/KL.Special.Force.2018.1080p.WEB-DL.AAC.H.264-KZK.mp4"
   },
 
 
@@ -80,7 +80,7 @@
     "rating": "6.9",
     "year": 2018,
     "genre": [ "action", "mystery" ]
-    "trailer": "TR9-6cTwQoA",
+    "trailer": "c",
     "backdrop": "https://www.mstar.com.my/image/830/553?url=https%3A%2F%2Fclips.mstar.com.my%2Fimages%2Fblob%2F65E46C86-F0C1-43D8-BC3E-9731CF13235D",
     "video": "https://ia801706.us.archive.org/32/items/kl.-special.-force.-2018.1080p.-web-dl.-aac.-h.-264-kzk/KL.Special.Force.2018.1080p.WEB-DL.AAC.H.264-KZK.mp4"
 },
