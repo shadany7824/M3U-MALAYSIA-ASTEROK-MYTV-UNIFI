@@ -75,7 +75,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="SukeTV" group-title="MYTV" tvg-logo="https://www.suketv.com/sitepad-data/uploads/2023/06/logo-STV.png",SukeTV
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1732111727-9a7a1df81e36478787cfba9ba46267ad-0-3fbbcb00a1dba2cd1eb28bc574ab4ed2&token=1732111727-9a7a1df81e36478787cfba9ba46267ad-0-3fbbcb00a1dba2cd1eb28bc574ab4ed2
 
-#EXTINF:-1 tvg-id="" ch-number="976" tvg-name="Hot FM" group-title="RADIO" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuZAw9V6Gej63cikLeVuX4cx-hJB3d7ftSQ&s",Hot FM (Youtube Live)
+#EXTINF:-1 tvg-id="" ch-number="976" tvg-name="Hot FM" group-title="RADIO" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuZAw9V6Gej63cikLeVuX4cx-hJB3d7ftSQ&s",Hot FM
 https://n30a-eu.rcs.revma.com/drakdf8mtd3vv/48_1vmr9fw8eh2ml02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlC_DOo8Ac734sTC2N2aVIQ
 
 #############################################################################UNIFI#################################################o=#########################################
@@ -260,12 +260,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="" group-title="LIFESTYLE",ASTRO PRIMA HD
-http://d14sysfrzu8fji.cloudfront.net/prima.mpd
-#http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+#####https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgZP_tvF9sekRK55k7ucikFA=YS1P/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
@@ -1043,6 +1042,14 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HRmhOelZrTjJJdE9Ua3lNaTAwWkROaExXRmhNbU10WlRZMFpqUTRNMkZtTkdZMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTg0MTQ5MiwiaWF0IjoxNzI5MjM3NDkyfQ.JMh_vbVFg6r95dGj7VH6lZLMu3_URD_T4qQz_G-f4u4"}
 #EXTINF:-1 tvg-id="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/534_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT",ASTRO ARENA BOLA 3
 https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQoeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQo"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ver8" tvg-name="ver8" group-title="MALAYSIA" ch-number="100" tvg-logo="https://i.ibb.co/nzVBbtK/images.png", Astro Go (Live Ahad Sahaja)
+https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 ########################MOVIE###########################
 
