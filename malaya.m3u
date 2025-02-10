@@ -181,10 +181,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2f5a3199b26e9b693ae881af7ff864cf", "kid":"edf1a715de9748638dd2fad75a419af2" } ], "type":"temporary" }
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 #EXTINF:-1 group-title="ANIME" tvg-id="472" ch-number="472"
-tvg-name="Animax" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png",472 Unifi Animax
+tvg-name="Animax" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png",Animax
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 
@@ -275,19 +277,18 @@ https://linears-playback.astro.com.my/vsg/41jDMetncPFcJvn2VPHssprkxGoXXZeSqJw-wm
 #EXTINF:-1 tvg-id="112.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-logo="" group-title="MY INDO",Rania 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co/4Tj83Hr/Menu5-R2.png" 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRia" group-title="3 SERANGKAI TEST" ch-number="104" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png", RI@ TEST
+#EXTINF:-1 tvg-id="AstroRia" group-title="SERIES" ch-number="104" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",Ria
 https://tinyurl.com/playria0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPrima" group-title="3 SERANGKAI TEST" ch-number="105" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM@ TEST
+#EXTINF:-1 tvg-id="AstroPrima" group-title="LIFESTYLE" ch-number="105" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",Prima (2)
 https://tinyurl.com/playprim0
 
 
@@ -296,15 +297,15 @@ https://tinyurl.com/playprim0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCitra" group-title="3 SERANGKAI TEST" ch-number="108" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",CITR@ TEST
+#EXTINF:-1 tvg-id="AstroCitra" group-title="MOVIE" ch-number="108" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",Citra
 https://tinyurl.com/playcit0
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-logo="" group-title="SERIES" group-logo="",ASTRO RIA HD
-http://d14sysfrzu8fji.cloudfront.net/ria.mpd
-#http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
-#https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ555jLnnZO5TfeBakOt-WGg=rJC-/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://tinyurl.com/playria0
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -413,7 +414,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fms.wikipedia.org%2Fwiki%2FAstro_Boo&psig=AOvVaw2SZsCKPWiGwen-qyD3Xlfs&ust=1735498256020000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjF9_qQy4oDFQAAAAAdAAAAABAE" group-logo="" group-title="HORROR",Boo  
+#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-logo="" group-title="HORROR",Boo  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1071,13 +1072,6 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #EXTINF:-1 tvg-id="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/534_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT",ASTRO ARENA BOLA 3
 https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQoeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQo"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ver8" tvg-name="ver8" group-title="MALAYSIA" ch-number="100" tvg-logo="https://i.ibb.co/nzVBbtK/images.png", Astro Go (Live Ahad Sahaja)
-https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 ########################MOVIE###########################
 
