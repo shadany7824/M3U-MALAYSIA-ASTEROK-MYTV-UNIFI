@@ -657,6 +657,10 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_pri
 #EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="" group-title="SPORT",ASTRO ARENA BOLA
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
+#EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="" group-title="SPORT",ASTRO ARENA BOLA
+https://jandatv.online/memfs/a6c9e066-3faa-4066-8a9e-f8c592240bf1.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="" group-title="SPORT",beIN Sports  
@@ -746,13 +750,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png" group-logo="" group-title="4K",Astro UHD 4K
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
-
+#EXTINF:-1 tvg-id="805.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="" group-title="SPORT",Astro ARENA BOLA 2
+https://jandatv.online/memfs/d4c910bc-48b6-40e4-98f0-3fdc976c3be1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6776985938b332164b97b81fe566a34a", "kid":"efda647dad723563b625be8c05ee6110" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="CH801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT",ASTRO ARENA 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
@@ -1046,12 +1052,18 @@ https://d2e27gsr9y6c4h.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617
 http://d14sysfrzu8fji.cloudfront.net/premier1.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
 
-#EXTINF:-1 tvg-id="812" group-logo="g" group-title="SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",ASTRO PREMIER LEAGUE 2 
+#EXTINF:-1 group-logo=""  tvg-id="811" ch-number="811" tvg-name="Astro Premier League" group-logo="" group-title="SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE  
+https://jandatv.online/memfs/3ab0cd06-7ea0-4069-96d2-c0d55b96439a.m3u8
+
+#EXTINF:-1 group-logo=""  tvg-id="812" ch-number="811" tvg-name="Astro Premier League 2" group-logo="" group-title="SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://d14sysfrzu8fji.cloudfront.net/premier2.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
+
+#EXTINF:-1 group-logo=""  tvg-id="811" ch-number="811" tvg-name="Astro Premier League" group-logo="" group-title="SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE
+https://jandatv.online/memfs/3ab0cd06-7ea0-4069-96d2-c0d55b96439a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
