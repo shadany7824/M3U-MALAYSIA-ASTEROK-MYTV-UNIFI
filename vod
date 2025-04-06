@@ -49,6 +49,23 @@
     "video": "https://drive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Sheriff.2024.1080p.mkv"
   },
 {
+    "name": "Keluang Man The Movie",
+    "category": "Malay Film",
+    "info": {
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzgwZjAzN2MtMmUzNC00YzU5LWIxN2YtMGY2MzRiNWFhMTNjXkEyXkFqcGdeQXVyMTU5OTU2MjQ3._V1_FMjpg_UX1000_.jpg",
+      "bg": "https://www.malaymail.com/malaymail/uploads/images/2024/04/22/204001.jpg?v=1735950300",
+      "plot": "Sheriff, pegawai polis dari Jabatan Integriti yang ditugaskan menyelesaikan kes 'Meth Killer. Dia berpasangan dengan Nazri, seorang anggota polis muda dari Jabatan Narkotik. Misi mereka adalah untuk menumpaskan sindiket dadah yang diketuai oleh Tony Ifrit. Sindiket terbabit sering terlepas daripada cengkaman undang-undang, setiap kali menerusi proses penghakiman.",
+      "backdrop": "https://www.malaymail.com/malaymail/uploads/images/2024/04/22/204001.jpg?v=1735950300",
+      "director": ["Syafiq Yusof"],
+      "rating": "6.9",
+      "country": [ "Malaysia" ],
+      "trailer": "gG3UbB_e_UY",
+      "cast": ["Zul Ariffin, Syafiq Kyle, Azira Syafinaz"],
+      "year": "2024"
+    },
+    "video": "https://files.catbox.moe/nt7t9v.mp4"
+  },
+{
     "name": "KL Special Force",
     "category": "Malay Film",
     "info": {
